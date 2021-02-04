@@ -1,3 +1,9 @@
+# This fork #
+
+This purpose of this fork is simply to make it easier and predictable to clone from for use within another project. This base branch
+make's just a single simple change to src/image.c in order to make it easier to use within some python projects. In addition at this
+stage the intention is to use the state of the code as last worked on by PJ Reddie.
+
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 
 # Darknet #

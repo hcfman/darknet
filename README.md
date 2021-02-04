@@ -1,6 +1,4 @@
-# Please change to branch for this fork #
-
-sbts
+# Please change to branch sbts for this fork #
 
 ![Darknet Logo](http://pjreddie.com/media/files/darknet-black-small.png)
 

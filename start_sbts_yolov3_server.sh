@@ -10,6 +10,6 @@ HERE=$(dirname $0)
 cd $HERE || abort "Can't change to script directory"
 
 while [ 1 ] ; do
-    ./python/sbts-yolo-server.py
+    ./python/sbts-yolov3-server.py
     sleep 5
 done
